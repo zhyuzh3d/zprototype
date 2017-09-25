@@ -7,7 +7,7 @@ animate(flash) actionscript APP原型模版 v03
 如有需要请与作者联系QQ286052520
 
 ---
-###最近更新
+### 最近更新
 v3
 1. 增加新的过场动画right(原fly),left(原fly2）,down,up,fade.
 1. 初始化添加home页面的同时自动清理舞台上的page页面.
