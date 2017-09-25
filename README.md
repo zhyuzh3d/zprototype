@@ -1,6 +1,8 @@
 # zprototype
 animate(flash) actionscript APP原型模版 v03
-##### 基于Animate／Flash的快速原型模版，无需任何AS动作编码就能快速实现页面切换和动画播放控制交互效果。
+#### 基于Animate／Flash的快速原型模版，无需任何AS动作编码就能快速实现页面切换和动画播放控制交互效果。
+
+请直接下载最新版本中的zprototype_vx.swf文件查看动态演示效果.
 
 ---
 此项目仅供内部培训使用，未经作者许可，任何人不得将其用于任何商业项目。
